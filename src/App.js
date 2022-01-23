@@ -10,7 +10,7 @@ import {CartProvider} from 'react-use-cart';
 function App() {
   return (
     <div className="App">
-    <h1 className='text-info'>App</h1>
+    <h1 className='text-info'>Coupons</h1>
     <CartProvider>
     <Home/>
     <Cart/>
